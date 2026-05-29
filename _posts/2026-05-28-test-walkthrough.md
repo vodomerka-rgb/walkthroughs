@@ -3,7 +3,7 @@ layout: post
 title: "Test Walkthrough"
 date: 2026-05-28
 categories: cybersecurity picoctf forensics
-permalink: /test-walkthrough/
+permalink: /posts/test-walkthrough/
 ---
 
 # Challenge
