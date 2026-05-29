@@ -1,6 +1,6 @@
 title: "Walkthroughs"
 description: "Cybersecurity, mathematics, and technical writeups"
-theme: jekyll-theme-hacker
+theme: minima
 
 url: "https://vodomerka-rgb.github.io"
 baseurl: ""
