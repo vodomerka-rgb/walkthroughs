@@ -5,9 +5,6 @@ theme: jekyll-theme-hacker
 url: "https://vodomerka-rgb.github.io"
 baseurl: "/walkthroughs"
 
-author:
-  name: "Watermeasurerr"
-
 markdown: kramdown
 
 plugins:
