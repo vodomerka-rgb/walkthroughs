@@ -16,4 +16,4 @@ I hope this site can help you because I will document some of my projects, notes
 
 ---
 
-[About Me]({{ site.baseurl }}/about.html)
+[About Me]({{ site.baseurl }}/about)
